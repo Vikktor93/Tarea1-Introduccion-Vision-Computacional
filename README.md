@@ -26,3 +26,11 @@ Este proyecto requiere:
 - OpenCV (`cv2`)
 - matplotlib
 - Jupyter Notebook
+
+## 📄 Licencia
+Este trabajo es de carácter académico y su uso está restringido solo para fines educativos.
+
+El dataset utilizado proviene del repositorio [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage-Dataset), desarrollado por Hughes & Salathé (2015).  
+Por favor, cite el artículo correspondiente si reutiliza este dataset:
+
+> Hughes, D. P., & Salathé, M. (2015). An open access repository of images on plant health to enable the development of mobile disease diagnostics. *arXiv preprint arXiv:1511.08060.*
